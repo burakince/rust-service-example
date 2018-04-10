@@ -1,6 +1,7 @@
 [package]
-name = "service-example"
+name = "rust-service-example"
 version = "0.1.0"
 authors = ["Burak Ince <burak.ince@linux.org.tr>"]
 
 [dependencies]
+iron = "0.6.*"
